@@ -10,6 +10,3 @@ Repositório dedicado ao estudo e manipulação de **Matrizes (Arrays Bidimensio
 
 ## Exemplo de Funcionamento:
 O usuário informa as dimensões, preenche a matriz e escolhe um número. O sistema então detalha todas as posições onde esse número aparece e quem são seus "vizinhos" diretos.
-
----
-**Robert Pereira Santos** 📍 *Estudante de ADS - UniProjeção (Taguatinga-DF)*
