@@ -1,12 +1,12 @@
-# Exercício de Fixação: Matrizes em Java
+# Exercícios de Lógica e Manipulação de Listas
 
-Repositório dedicado ao estudo e manipulação de **Matrizes (Arrays Bidimensionais)** em Java, focando em lógica de busca e análise de vizinhança de elementos.
+Este repositório contém uma série de exercícios resolvidos para o fortalecimento da **Lógica de Programação** e o uso eficiente de **Coleções (Lists)** em Java.
 
-## Conceitos Aplicados:
-- **Estrutura de Dados:** Matrizes dinâmicas (definidas pelo usuário).
-- **Lógica de Busca:** Varredura completa da matriz para encontrar ocorrências específicas.
-- **Geometria de Dados:** Identificação de elementos vizinhos (Acima, Abaixo, Esquerda e Direita) com base na posição `[i][j]`.
-- **Tratamento de Exceções Lógicas:** Validação de limites da matriz para evitar erros de índice inexistente.
+## O que pratiquei aqui:
+- **Coleções Dinâmicas:** Uso de `List` e `ArrayList` para gerenciar conjuntos de dados.
+- **Algoritmos de Busca:** Uso de predicados e `lambda` para encontrar elementos específicos na lista.
+- **Operações CRUD Básicas:** Adição, remoção e atualização de dados dentro de listas de objetos.
+- **Formatação de Dados:** Uso de `String.format` e `Locale` para saídas numéricas precisas.
 
-## Exemplo de Funcionamento:
-O usuário informa as dimensões, preenche a matriz e escolhe um número. O sistema então detalha todas as posições onde esse número aparece e quem são seus "vizinhos" diretos.
+## Estrutura:
+Os exercícios abrangem desde cálculos matemáticos básicos até o gerenciamento de objetos complexos (como listas de funcionários ou produtos) dentro da memória.
